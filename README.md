@@ -1,2 +1,2 @@
 # cosmo-theatre
-Teahtre view
+Teathre view
